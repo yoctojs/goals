@@ -1,2 +1,2 @@
 # goals
-yoctojs goals
+Create minimalist/unitary JavaScript code
