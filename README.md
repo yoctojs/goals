@@ -3,3 +3,4 @@
 * Organize for easy pick-up by versionned use cases
 * Serve as references for JS community
 * Publish on npm
+
